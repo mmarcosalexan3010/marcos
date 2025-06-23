@@ -29,7 +29,7 @@ public class Mercado{
             System.out.print("Escolha uma opção: ");
             int opcao = scanner.nextInt();
             scanner.nextLine();
-
+            
             if (opcao == 1) {
                 System.out.println();
                 System.out.print("Digite o nome do produto: ");
